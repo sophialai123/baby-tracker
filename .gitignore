@@ -1,0 +1,32 @@
+# .NET
+bin/
+obj/
+.vs/
+.vscode/
+*.user
+*.suo
+*.sln.iml
+*.csproj.user
+appsettings.*.json
+
+# Data files
+data.json
+data.backup.*.json
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Dependencies
+node_modules/
+package-lock.json
+
+# Build artifacts
+publish/
+dist/
+
+# IDE
+.idea/
+*.swp
+*.swo
